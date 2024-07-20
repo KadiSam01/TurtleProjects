@@ -1,2 +1,2 @@
 # TurtleProjects
-Some of the projects I built using python turtle
+Projects I built using turtle in python. Please head to the main branch
